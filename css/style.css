@@ -1,0 +1,301 @@
+/*===========================*/
+/* General*/
+/*===========================*/
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #e1e3f3;
+}
+h1 {
+  font-size: 28px;
+}
+h2 {
+  font-size: 26px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 22px;
+}
+h5 {
+  font-size: 20px;
+}
+h6 {
+  font-size: 18px;
+}
+/* * {
+  border-radius: 0 !important;
+}*/
+.main {
+  margin-bottom: 100px;
+}
+.ownNav {
+  background: #011545;
+}
+.navbar-brand > img {
+  height: 70px;
+}
+.navbar ul {
+  padding: 0;
+  font-weight: 600;
+}
+.dropdown-menu {
+  background-color: #011545;
+}
+.dropdown-item {
+  color: #ffffff;
+}
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: #011545;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.dropdown-item.active,
+.dropdown-item:active {
+  color: #011545;
+  text-decoration: none;
+  background-color: #ffffff;
+}
+.btn {
+  background-color: #011545;
+}
+.btn:hover {
+  color: orange;
+  border-color: orange;
+  background-color: #011545;
+  text-decoration: none;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  background-color: #202020;
+  color: lightgray;
+  margin-bottom: 80;
+}
+@media (max-width: 767px) {
+  .main {
+    margin-bottom: 100px;
+  }
+  .footer {
+    height: 80px;
+    line-height: 30px;
+    margin-top: 100px;
+  }
+}
+@media (max-width: 767px) {
+  .main {
+    margin-bottom: 100px;
+  }
+  .footer {
+    height: 80px;
+  }
+}
+/*===========================*/
+/*mainPage*/
+/*===========================*/
+.care {
+  background: url(../img/care.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  border-radius: 0;
+}
+.jumbotext {
+  color: white;
+}
+.jumbotext-bottom {
+  color: rgb(210, 210, 210);
+  text-align: bottom;
+}
+.card {
+  background-color: #011545;
+  color: rgb(210, 210, 210);
+}
+/*===========================*/
+/*teamPage*/
+/*===========================*/
+.team {
+  background: url(../img/team.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+
+.avatar-placeholder {
+    height: 200px;
+    background-color: #011545;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.avatar-initials {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    background-color: #0a2a6e;
+    border: 2px solid rgba(210, 210, 210, 0.2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(210, 210, 210);
+}
+/*===========================*/
+/*Kooperation*/
+/*===========================*/
+.coop {
+  background: url(../img/coop.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+.lists {
+  background-color: #011545;
+  color: rgb(210, 210, 210);
+}
+.box {
+  padding-bottom: 25px;
+}
+/*===========================*/
+/*Leistungen*/
+/*===========================*/
+.leistungen {
+  background: url(../img/leistungen.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+.einschreibung {
+  background: url(../img/einschreibung.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+.listdown {
+  background-color: #011545;
+  color: rgb(210, 210, 210);
+}
+.listdown > a {
+  color: white;
+}
+.listdown.list-group-item:hover {
+  background-color: #011545;
+}
+.listdown.list-group-item:hover > a {
+  color: orange;
+}
+.vorsorge {
+  background: url(../img/vorsorge.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+.card_leistungen {
+  background-color: #011545;
+  color: rgb(210, 210, 210);
+  border-radius: 0.25rem;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.avatar-sm {
+    width: 128px;
+    height: 128px;
+    background-color: #011545;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 1rem;
+}
+.avatar-sm .avatar-initials {
+    width: 64px;
+    height: 64px;
+    font-size: 18px;
+}
+/*===========================*/
+/*Kontakt*/
+/*===========================*/
+.kontakt {
+  background: url(../img/kontakt.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+/*===========================*/
+/*datenschutz & impressum*/
+/*===========================*/
+.datenschutz {
+  background: url(../img/datenschutz.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+.privacy {
+  color: lightgray;
+}
+.impressum {
+  background: url(../img/impressum.jpg) top center fixed;
+  background-size: cover;
+  padding-top: 5em;
+  padding-bottom: 5em;
+  min-height: 350px;
+  border-radius: 0;
+}
+
+/* Jumbotron headings */
+.jumbotext h1,
+.jumbotext-bottom h1 {
+    color: white;
+}
+
+/* Content areas */
+.privacy {
+    color: #0b0e1e;
+}
+.content-dark {
+    color: #0b0e1e;
+}
+
+/* Card headings */
+.card h5 {
+    color: rgb(210, 210, 210);
+}
+
+/* Footer */
+.footer p {
+    font-size: 12px;
+}
+.footer a {
+    color: white;
+}
+
+/* Kontakt */
+.kontakt-phone {
+    color: #011545;
+}
+.kontakt-email {
+    color: #d2d2d2;
+}
+.mymap iframe {
+    border: 0;
+}

@@ -1,0 +1,15 @@
+# Client documents - not part of the codebase
+download/
+
+# Google Search Console verification
+googlec8716987cbcdc025.html
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
