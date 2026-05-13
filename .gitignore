@@ -1,0 +1,18 @@
+# Client documents - not part of the codebase
+download/
+
+# Server config - not part of the website code
+etc/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS (in case you ever work on one)
+.DS_Store
+
+# Google Search Console verification (not source code)
+googlec8716987cbcdc025.html
+
+# VS Code
+.vscode/

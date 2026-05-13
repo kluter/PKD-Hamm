@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.palliativkonsiliardienst-hamm.de/sitemap.xml
