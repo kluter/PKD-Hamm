@@ -1,0 +1,4 @@
+# Redirect non-www to www. Currently inactive - hosting plan does not support .htaccess.
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^palliativkonsiliardienst-hamm\.de$ [NC]
+RewriteRule ^(.*)$ https://www.palliativkonsiliardienst-hamm.de/$1 [R=301,L]
