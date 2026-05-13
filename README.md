@@ -2,14 +2,14 @@
 
 Website for the **Palliativmedizinischer Konsiliardienst Hamm (PKD Hamm)**, a palliative care service based in Hamm, Germany.
 
-The 2017 version has been live and maintained since its launch:  
+The 2017 version has been live and maintained since its launch on 17.04.2017:  
 [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de)
 
 ## Branches
 
 | Branch | Stack | Description |
 |---|---|---|
-| `main` | Bootstrap 3, vanilla HTML/CSS | 2017 production site, no build tools |
+| `main` | Bootstrap 3 | 2017 production site, no build tools |
 | `redesign-2018` | Bootstrap 4 | 2018 redesign pitch, never shipped. [View on GitHub Pages](#) |
 
 ## About
