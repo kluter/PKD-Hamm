@@ -7,10 +7,10 @@ The 2017 version has been live and maintained since its launch:
 
 ## Branches
 
-| Branch | Description |
-|---|---|
-| `main` | 2017 production site — Bootstrap 3, vanilla HTML/CSS, no build tools |
-| `redesign-2018` | 2018 redesign pitch — Bootstrap 4, never shipped. [View on GitHub Pages](#) |
+| Branch | Stack | Description |
+|---|---|---|
+| `main` | Bootstrap 3, vanilla HTML/CSS | 2017 production site, no build tools |
+| `redesign-2018` | Bootstrap 4 | 2018 redesign pitch, never shipped. [View on GitHub Pages](#) |
 
 ## About
 
