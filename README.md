@@ -1,8 +1,6 @@
-# PKD Hamm
+# PKD Hamm ![live](https://img.shields.io/badge/status-live-brightgreen?style=flat&logo=github)
 
 Website for the **Palliativmedizinischer Konsiliardienst Hamm (PKD Hamm)**, a palliative care service based in Hamm, Germany.
-
-## ![live](https://img.shields.io/badge/status-live-brightgreen?style=flat&logo=github)  Live site
 
 The 2017 version has been live and maintained since its launch:  
 [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de)
