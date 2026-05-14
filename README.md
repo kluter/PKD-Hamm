@@ -1,6 +1,6 @@
 # PKD Hamm ![live](https://img.shields.io/badge/status-live-brightgreen?style=flat&logo=github)
 
-Website for the *PKD Hamm**, a palliative care service based in Hamm, Germany.
+Website for the **PKD Hamm**, a palliative care service based in Hamm, Germany.
 
 ## About
 
