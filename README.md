@@ -1,6 +1,6 @@
-# PKD Hamm — 2018 Redesign
+# PKD Hamm - 2018 Redesign ![undeployed](https://img.shields.io/badge/status-undeployed-red?style=flat)
 
-Unshipped redesign pitch for the **PKD Hamm**, developed in 2018.
+Unshipped redesign pitch for the **Palliativmedizinischer Konsiliardienst Hamm (PKD Hamm)**, developed in 2018.
 
 ## About
 
@@ -10,11 +10,11 @@ The client declined, preferring to keep the original. The 2017 production site r
 
 ## Links
 
-| | |
-|---|---|
-| Live production site | [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de) |
-| This redesign on GitHub Pages | [kluter.github.io/PKD-Hamm](https://kluter.github.io/PKD-Hamm/) |
-| Full project repo | [github.com/kluter/PKD-Hamm](https://github.com/kluter/PKD-Hamm) |
+| | Description | Link |
+|---|---|---|
+| 🟢 | 2017 production site, maintained since launch | [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de) |
+| 🔴 | 2018 redesign pitch on GitHub Pages | [kluter.github.io/PKD-Hamm](https://kluter.github.io/PKD-Hamm/) |
+| 📁 | Full project repository | [github.com/kluter/PKD-Hamm](https://github.com/kluter/PKD-Hamm) |
 
 ## Credits
 
