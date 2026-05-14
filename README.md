@@ -1,10 +1,20 @@
 # PKD Hamm — 2018 Redesign
 
-Unshipped redesign pitch for the Palliativmedizinischer Konsiliardienst Hamm (PKD Hamm), developed in 2018.
+Unshipped redesign pitch for the **PKD Hamm**, developed in 2018.
 
-Built with Bootstrap 4, Font Awesome 5, and vanilla HTML/CSS. The redesign introduced a new visual identity, full-width jumbotron backgrounds, and a card-based team layout with collapsible details.
+## About
 
-The pitch was not adopted. The 2017 production site remains live at [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de) and is maintained in the `main` branch of this repository.
+Pitched a year after the original launch. Built with Bootstrap 4, Font Awesome 5, and vanilla HTML/CSS. The redesign introduced a new visual identity, full-width jumbotron backgrounds per page, and a card-based team layout with collapsible details.
+
+The client declined, preferring to keep the original. The 2017 production site remains live and is maintained in the `main` branch.
+
+## Links
+
+| | |
+|---|---|
+| Live production site | [www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de) |
+| This redesign on GitHub Pages | [kluter.github.io/PKD-Hamm](https://kluter.github.io/PKD-Hamm/) |
+| Full project repo | [github.com/kluter/PKD-Hamm](https://github.com/kluter/PKD-Hamm) |
 
 ## Credits
 
