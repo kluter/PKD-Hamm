@@ -2,19 +2,18 @@
 
 Website for the **Palliativmedizinischer Konsiliardienst Hamm (PKD Hamm)**, a palliative care service based in Hamm, Germany.
 
-The 2017 version has been live and maintained since its launch on 17.04.2017:  
-[www.palliativkonsiliardienst-hamm.de](https://www.palliativkonsiliardienst-hamm.de)
+## About
+
+First web development project, built and deployed in April 2017 within two weeks of starting to learn HTML and CSS. The site has been maintained continuously since launch.
+
+The repository also includes a 2018 Bootstrap 4 redesign pitch that was not adopted by the client.
 
 ## Branches
 
-| Branch | Stack | Description |
-|---|---|---|
-| `main` | Bootstrap 3 | 2017 production site, no build tools |
-| `redesign-2018` | Bootstrap 4 | 2018 redesign pitch, never shipped. [View on GitHub Pages](#) |
-
-## About
-
-Built in 2017 as my first website project. The site has been running continuously since launch with occasional content updates. This repository also contains a 2018 redesign pitch that was developed but not adopted by the client.
+| Branch | Stack | Description | Link |
+|---|---|---|---|
+| `main` | Bootstrap 3 | 2017 production site, maintained since launch | [Live site](https://www.palliativkonsiliardienst-hamm.de) |
+| `redesign-2018` | Bootstrap 4 | 2018 redesign pitch, never shipped | [GitHub Pages](https://kluter.github.io/PKD-Hamm/) |
 
 ## Credits
 
