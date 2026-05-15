@@ -2,7 +2,7 @@
 
 Website for the **PKD Hamm**, a palliative care service based in Hamm, Germany.
 
-![PKD-Hamm - redesigned](img/pkd_hero.png)
+<img src="img/pkd_hero.png" alt="PKD-Hamm - redesigned" width="350">
 
 ## About
 
