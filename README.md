@@ -2,8 +2,8 @@
 
 Website for the **PKD Hamm**, a palliative care service based in Hamm, Germany.
 
- ![PKD-Hamm - redesigned](img/pkd_hero.png)
- 
+ ![PKD-Hamm - redesign_logo](img/pkd_hero_logo.png)
+
 ## About
 
 First web development project, built and deployed in April 2017 within two weeks of starting to learn HTML and CSS. The site has been maintained continuously since launch.
